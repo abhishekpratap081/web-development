@@ -1,0 +1,25 @@
+div{
+    display: flex;
+    margin: 30px;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: justify;
+}
+#left{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    
+    
+}
+#right{
+    height: 500px;
+    width: 500px;
+    background-color: skyblue;
+    
+    
+    
+}
+body{
+    background-image:url("https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/1/yosemite-valley-francesco-carucci.jpg");
+}
